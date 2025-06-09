@@ -9,7 +9,7 @@
 ![](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
 -->
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="290"/></p>
 
 
 ## Mis habilidades tecnológicas | My tech stack
@@ -96,7 +96,7 @@
   </a>
   &emsp;
 
-
+<br><br>
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ricardo-cea-gallardo-35b950159/" target="blank"><img align="center"
