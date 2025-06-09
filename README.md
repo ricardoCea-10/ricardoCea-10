@@ -15,8 +15,26 @@
 ## Mis habilidades tecnológicas | My tech stack
 
 <p align="left"> 
-
-
+  <a>
+   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+   <img alt="Compose" src="https://img.shields.io/badge/Jetpack_Compose-000000?logo=jetpackcompose&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white">
+  </a>
+  &emsp;
+  <a>
+   <img alt="Firestore" src="https://img.shields.io/badge/Firestore-yellow?logo=firebase">
+  </a>
+  &emsp;
+  <a>
+   <img alt="Dagger‑Hilt" src="https://img.shields.io/badge/Dagger‑Hilt-000000?logo=dagger&logoColor=white">
+  </a>
+  &emsp;
   <a> 
     <img alt="NodeJs" src="https://img.shields.io/badge/-NodeJS-green?logo=node.js&Color=white">
   </a> 
